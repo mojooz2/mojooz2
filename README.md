@@ -1,16 +1,35 @@
-## Hi there 👋
+# Joe Kim
 
-<!--
-**mojooz2/mojooz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering undergraduate at King's College, University of Cambridge, with an interest in robotics, embedded systems, and control engineering.
 
-Here are some ideas to get you started:
+I enjoy both the hardware and software sides of engineering, particularly projects that involve designing, building, and programming physical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During the summer of 2026, I worked as an undergraduate research intern at POSTECH's HERO Lab, where I designed and fabricated mechanical components for the BlueROV2 underwater robot, including a two-axis laser camera mount and a modular imaging sonar mount.
+
+## Projects
+
+### [Hexapod Robot](https://github.com/mojooz2/hexapod-robot)
+
+[![Hexapod Robot](https://raw.githubusercontent.com/mojooz2/hexapod-robot/main/media/final/final_top_view.png)](https://github.com/mojooz2/hexapod-robot)
+
+A personal project to design and build an 18-DOF hexapod robot using MG996R servo motors, PCA9685 PWM controllers, and custom-designed mechanical components. The project involves mechanical design, embedded programming, servo control, and power distribution.
+
+### [Autonomous Forklift Robot](https://github.com/mojooz2/autonomous-forklift-robot)
+
+[![Autonomous Forklift Robot](https://raw.githubusercontent.com/mojooz2/autonomous-forklift-robot/main/media/forklift_robot.png)](https://github.com/mojooz2/autonomous-forklift-robot)
+
+A team project developed for the Cambridge Engineering Integrated Design Project. I was responsible for the robot's software, written in MicroPython for the Raspberry Pi Pico.
+
+The robot uses line sensors, a QR code reader, and a time-of-flight distance sensor to navigate a track, collect boxes, and deliver them to specified locations.
+
+## Technical Skills
+
+- **Programming:** Python, C, C++, MicroPython, MATLAB
+- **Embedded Systems:** Raspberry Pi Pico, Arduino, STM32, I2C, UART, PWM
+- **CAD:** Autodesk Fusion, SolidWorks, AutoCAD
+- **Other:** Git, NumPy, SciPy, OpenCV, 3D printing
+
+## Contact
+
+- Email: [kimmojooz2@gmail.com](mailto:kimmojooz2@gmail.com)
+- [CAD Portfolio](https://sites.google.com/view/mjkcad)
