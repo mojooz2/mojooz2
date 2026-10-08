@@ -1,4 +1,4 @@
-# Joe Kim
+# Moojo (Joe) Kim
 
 I'm an Engineering undergraduate at King's College, University of Cambridge, with an interest in robotics, embedded systems, and control engineering.
 
