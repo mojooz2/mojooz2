@@ -10,13 +10,17 @@ During the summer of 2026, I worked as an undergraduate research intern at POSTE
 
 ### [Hexapod Robot](https://github.com/mojooz2/hexapod-robot)
 
-[![Hexapod Robot](https://raw.githubusercontent.com/mojooz2/hexapod-robot/main/media/final/final_top_view.png)](https://github.com/mojooz2/hexapod-robot)
+<a href="https://github.com/mojooz2/hexapod-robot">
+  <img src="https://raw.githubusercontent.com/mojooz2/hexapod-robot/main/media/final/final_top_view.png" width="50%" alt="Hexapod Robot">
+</a>
 
 A personal project to design and build an 18-DOF hexapod robot using MG996R servo motors, PCA9685 PWM controllers, and custom-designed mechanical components. The project involves mechanical design, embedded programming, servo control, and power distribution.
 
 ### [Autonomous Forklift Robot](https://github.com/mojooz2/autonomous-forklift-robot)
 
-[![Autonomous Forklift Robot](https://raw.githubusercontent.com/mojooz2/autonomous-forklift-robot/main/media/forklift_robot.png)](https://github.com/mojooz2/autonomous-forklift-robot)
+<a href="https://github.com/mojooz2/autonomous-forklift-robot">
+  <img src="https://raw.githubusercontent.com/mojooz2/autonomous-forklift-robot/main/media/forklift_robot.png" width="50%" alt="Autonomous Forklift Robot">
+</a>
 
 A team project developed for the Cambridge Engineering Integrated Design Project. I was responsible for the robot's software, written in MicroPython for the Raspberry Pi Pico.
 
