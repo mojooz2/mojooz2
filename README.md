@@ -16,7 +16,7 @@ During the summer of 2026, I worked as an undergraduate research intern at POSTE
 
 $\color{red}{\normalsize\textsf{\textit{Click the image to view the project repository.}}}$
 
-A personal project to design and build an 18-DOF hexapod robot using MG996R servo motors, PCA9685 PWM controllers, and custom-designed mechanical components. The project involves mechanical design, embedded programming, servo control, and power distribution.
+An independent personal project to design and build an 18-DOF hexapod robot using MG996R servo motors, PCA9685 PWM controllers, and custom-designed mechanical components. The project encompasses mechanical design, embedded programming, servo control, and power distribution. Developed independently using facilities and prototyping resources available at POSTECH HERO Lab during my research internship.
 
 ### [BlueROV2 Underwater Sensor Integration](https://github.com/mojooz2/BlueROV2-Sensor-Integration-Modules)
 
