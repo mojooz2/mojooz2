@@ -1,6 +1,6 @@
 # Moojo (Joe) Kim
 
-I'm an Engineering undergraduate at King's College, University of Cambridge, with an interest in robotics, embedded systems, and control engineering.
+I'm a third year (part IIA) Engineering undergraduate at the University of Cambridge, with an interest in robotics, embedded systems, and control engineering.
 
 I enjoy both the hardware and software sides of engineering, particularly projects that involve designing, building, and programming physical systems.
 
